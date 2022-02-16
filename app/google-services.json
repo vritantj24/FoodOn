@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15772827076",
+    "project_id": "food-on-8fa97",
+    "storage_bucket": "food-on-8fa97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15772827076:android:ed0ddf1baf7faec1fab891",
+        "android_client_info": {
+          "package_name": "com.vritant.foodon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15772827076-qeeoioirpihfngsks3hbtira1tirl3bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJrc2_webi6Lb31kTJ_89BKkQKm1I1xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15772827076-qeeoioirpihfngsks3hbtira1tirl3bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/background_shape.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/blackmail.xml" value="0.1535" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/btn_blueish.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/btn_green.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/btn_red.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/camera_shape_btn.xml" value="0.1485" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1535" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/ic_camera_24.xml" value="0.1485" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/ic_orders_24.xml" value="0.15" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/ic_pending_orders_24.xml" value="0.15" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/phonewhite.xml" value="0.1535" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/splash_background.xml" value="0.1535" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/drawable/whitemail.xml" value="0.1535" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_chef_pannel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_chef_registration.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_choose_one.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_customer_panel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_delete_dish.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_delivery_panel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_email_login.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_intro2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_phone_login.xml" value="0.24048913043478262" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_phone_verification.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/activity_registration.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/chef_menu_delete.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/content_chef_pannel.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/cutomer_menudish_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_chef_home.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_chef_orders.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_chef_pending_orders.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_chef_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_customer_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_customer_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_customer_track.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_delivery_pending_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_delivery_ship_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_phone_login_detail.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_phone_otp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/layout/progress_dialog_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/menu/chef_bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/menu/customer_bottom_navigation.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/menu/delivery_bottom_navigation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/vrita/AndroidStudioProjects/FoodOn/app/src/main/res/menu/logout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
